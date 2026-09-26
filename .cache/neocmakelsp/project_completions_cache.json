@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-18T20:30:57.405754+05:30",
+  "data": {
+    "/Users/hi_mrinal/Desktop/os/cpp/actor-framework/CMakeLists.txt": [
+      {
+        "label": "CMAKE_CXX_STANDARD",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /Users/hi_mrinal/Desktop/os/cpp/actor-framework/CMakeLists.txt"
+      },
+      {
+        "label": "CMAKE_CXX_STANDARD_REQUIRED",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /Users/hi_mrinal/Desktop/os/cpp/actor-framework/CMakeLists.txt"
+      },
+      {
+        "label": "Threads_LIBRARIES",
+        "kind": 6,
+        "detail": "Variable",
+        "documentation": "package: Threads"
+      },
+      {
+        "label": "Threads_INCLUDE_DIRS",
+        "kind": 6,
+        "detail": "Variable",
+        "documentation": "package: Threads"
+      },
+      {
+        "label": "Boost::system",
+        "kind": 6,
+        "detail": "Variable",
+        "documentation": "package from: Boost"
+      },
+      {
+        "label": "Boost_LIBRARIES",
+        "kind": 6,
+        "detail": "Variable",
+        "documentation": "package: Boost"
+      },
+      {
+        "label": "Boost_INCLUDE_DIRS",
+        "kind": 6,
+        "detail": "Variable",
+        "documentation": "package: Boost"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-18T20:30:57.405846+05:30",
+  "data": {
+    "CMAKE_CXX_STANDARD": {
+      "location": {
+        "uri": "file:///Users/hi_mrinal/Desktop/os/cpp/actor-framework/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 4
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /Users/hi_mrinal/Desktop/os/cpp/actor-framework/CMakeLists.txt",
+      "is_function": false
+    },
+    "CMAKE_CXX_STANDARD_REQUIRED": {
+      "location": {
+        "uri": "file:///Users/hi_mrinal/Desktop/os/cpp/actor-framework/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 4
+          },
+          "end": {
+            "line": 4,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /Users/hi_mrinal/Desktop/os/cpp/actor-framework/CMakeLists.txt",
+      "is_function": false
+    }
+  }
+}
